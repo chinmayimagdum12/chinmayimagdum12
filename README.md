@@ -27,17 +27,17 @@
   <img src="https://img.shields.io/badge/%E2%9C%BF_EMAIL-say_hi-ffb88c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fff0e6" />
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/%E2%9C%BF_GITHUB-YOUR__USERNAME-8be9c8?style=for-the-badge&logo=github&logoColor=white&labelColor=e0faf2" />
+<a href="https://github.com/chinmayimagdum12">
+  <img src="https://img.shields.io/badge/%E2%9C%BF_GITHUB-chinmayimagdum12-8be9c8?style=for-the-badge&logo=github&logoColor=white&labelColor=e0faf2" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff6fa5&label=PROFILE+VISITS&labelColor=ffe4f0" />
+<img src="https://komarev.com/ghpvc/?username=chinmayimagdum12&style=flat-square&color=ff6fa5&label=PROFILE+VISITS&labelColor=ffe4f0" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=b79cff&label=FOLLOWERS&labelColor=ede4ff&logo=github&logoColor=b79cff" />
+<img src="https://img.shields.io/github/followers/chinmayimagdum12?style=flat-square&color=b79cff&label=FOLLOWERS&labelColor=ede4ff&logo=github&logoColor=b79cff" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=ffb88c&label=STARS&labelColor=fff0e6&logo=github&logoColor=ffb88c" />
+<img src="https://img.shields.io/github/stars/chinmayimagdum12?style=flat-square&color=ffb88c&label=STARS&labelColor=fff0e6&logo=github&logoColor=ffb88c" />
 &nbsp;
 <img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-ff6fa5?style=flat-square&labelColor=ffe4f0" />
 &nbsp;
@@ -82,12 +82,12 @@
 
 <table border="0" cellspacing="0" cellpadding="8">
 <tr>
-<td><a href="https://github.com/YOUR_USERNAME/VectorShield"><img src="./assets/project-1.svg" width="580" alt="VectorShield" /></a></td>
-<td><a href="https://github.com/YOUR_USERNAME/QueryPilot-MCP"><img src="./assets/project-2.svg" width="580" alt="QueryPilot MCP" /></a></td>
+<td><a href="https://github.com/chinmayimagdum12/VectorShield"><img src="./assets/project-1.svg" width="580" alt="VectorShield" /></a></td>
+<td><a href="https://github.com/chinmayimagdum12/QueryPilot-MCP"><img src="./assets/project-2.svg" width="580" alt="QueryPilot MCP" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/YOUR_USERNAME/HOMOMORPHIC-VOTING-REPO"><img src="./assets/project-3.svg" width="580" alt="Homomorphic Voting" /></a></td>
-<td><a href="https://github.com/YOUR_USERNAME/PADDY-LEAF-REPO"><img src="./assets/project-4.svg" width="580" alt="Paddy Leaf Disease AI" /></a></td>
+<td><a href="https://github.com/chinmayimagdum12/HOMOMORPHIC-VOTING-REPO"><img src="./assets/project-3.svg" width="580" alt="Homomorphic Voting" /></a></td>
+<td><a href="https://github.com/chinmayimagdum12/PADDY-LEAF-REPO"><img src="./assets/project-4.svg" width="580" alt="Paddy Leaf Disease AI" /></a></td>
 </tr>
 </table>
 
@@ -188,24 +188,24 @@ flowchart LR
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=ff6fa5&icon_color=b79cff&text_color=7a4a6b&ring_color=ff6fa5&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chinmayimagdum12&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=ff6fa5&icon_color=b79cff&text_color=7a4a6b&ring_color=ff6fa5&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=fff7fb&title_color=ff6fa5&text_color=7a4a6b" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayimagdum12&layout=compact&hide_border=true&bg_color=fff7fb&title_color=ff6fa5&text_color=7a4a6b" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=fff7fb&ring=ff6fa5&fire=b79cff&currStreakNum=d6336c&currStreakLabel=ff6fa5&sideNums=7a4a6b&sideLabels=b79cff&dates=9b5b86" width="85%" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=chinmayimagdum12&hide_border=true&background=fff7fb&ring=ff6fa5&fire=b79cff&currStreakNum=d6336c&currStreakLabel=ff6fa5&sideNums=7a4a6b&sideLabels=b79cff&dates=9b5b86" width="85%" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=fff7fb&color=ff6fa5&line=b79cff&point=d6336c&area=true&area_color=ffc2dc&hide_border=true" width="95%" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayimagdum12&bg_color=fff7fb&color=ff6fa5&line=b79cff&point=d6336c&area=true&area_color=ffc2dc&hide_border=true" width="95%" alt="Activity graph" />
 
 <br/><br/>
 
 <!-- Snake needs .github/workflows/snake.yml. Run it once from the Actions tab. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmayimagdum12/chinmayimagdum12/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/chinmayimagdum12/chinmayimagdum12/output/snake.svg" width="95%" />
 </picture>
 
 </div>
